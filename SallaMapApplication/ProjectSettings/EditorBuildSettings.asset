@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PlayScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 736d335dc5ff4044eb860e462dfffc04
+  - enabled: 0
+    path: Assets/Scenes/Rovaniemi.unity
     guid: 49eba31e0ceedf546a7cd674e0df7011
+  - enabled: 1
+    path: Assets/Scenes/Salla.unity
+    guid: 4c4aae1f50538c04ba497a316c2c5e20
   m_configObjects: {}
